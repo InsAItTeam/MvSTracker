@@ -25,7 +25,7 @@ Extensive experiments on **MvSTrack** demonstrate that our method achieves **sta
 against both single-view and multi-view baselines, establishing a valuable benchmark and framework for
 advancing multi-view tracking in sports vision.
 <p align="center">
-  <img src="git-fig2.png" width="900">
+  <img src="git-fig2.png" width="300">
 </p>
 
 
