@@ -23,10 +23,18 @@ and motion blur.
 
 Extensive experiments on **MvSTrack** demonstrate that our method achieves **state-of-the-art performance**
 against both single-view and multi-view baselines, establishing a valuable benchmark and framework for
-advancing multi-view tracking in sports vision.
-<p align="center">
-  <img src="git-fig2.png" width="300">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="git-fig1.png" width="300"><br>
+      <em>View-level association</em>
+    </td>
+    <td align="center">
+      <img src="git-fig2.png" width="300"><br>
+      <em>BEV-based topology</em>
+    </td>
+  </tr>
+</table>
 
 
 ## ⚙️ Installation
