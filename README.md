@@ -24,8 +24,8 @@ and motion blur.
 Extensive experiments on **MvSTrack** demonstrate that our method achieves **state-of-the-art performance**
 against both single-view and multi-view baselines, establishing a valuable benchmark and framework for
 <p align="center">
-  <img src="git-fig1.png" height="220">
-  <img src="git-fig2.png" height="220">
+  <img src="git-fig1.png" height="260">
+  <img src="git-fig2.png" height="260">
 </p>
 
 
