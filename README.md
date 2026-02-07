@@ -32,4 +32,4 @@ against both single-view and multi-view baselines, establishing a valuable bench
 
 ## ⚙️ Installation
 
-The code will be uploaded soon.
+The code and data will be avaliable soon.
