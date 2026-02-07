@@ -27,7 +27,7 @@ advancing multi-view tracking in sports vision.
 <p align="center">
   <img src="git-fig2.png" width="900">
 </p>
----
+
 
 ## ⚙️ Installation
 
