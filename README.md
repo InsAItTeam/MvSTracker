@@ -32,4 +32,4 @@ against both single-view and multi-view baselines, establishing a valuable bench
 
 ## ⚙️ Installation
 
-The code and data will be avaliable soon.
+The manuscript is currently under review, code and data will be avaliable upon the acceptance of the manuscript.
